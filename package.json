@@ -7,7 +7,7 @@
     "build": "next build",
     "export": "next export",
     "start": "next start",
-    "tauri": "tauri",
+    "tauri:build": "tauri build",
     "lint": "next lint"
   },
   "dependencies": {
